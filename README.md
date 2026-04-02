@@ -1,67 +1,135 @@
-# 💫 Hi 👋, I'm Kalakanhu Swain
-**🚀 A passionate Machine Learning Engineer & Frontend Developer from Odisha, India**
 
-Email Me 👉 ✉️ **kalakanhuswain18@gmail.com** For Collaboration/Project or Anything Else. 😊😊 <br/>
-<h2>Visit My Portfolio😊👉<a href="https://kalakanhuswain18-hub.github.io/kalakanhuswain/">Click Here🔘</a></h2>
+<!DOCTYPE html>
 
-https://kalakanhuswain18-hub.github.io/kalakanhuswain/
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalakanhu Swain | ML Engineer</title>
 
-- 🔭 Currently Working On:
-  
-Predictive modeling projects using Python and scikit-learn
+  <!-- Tailwind CDN -->
 
-Exploring Deep Learning and Neural Networks
+  <script src="https://cdn.tailwindcss.com"></script>
 
-Experimenting with real-world datasets
-- 🌱 Currently Learning:
+  <!-- AOS Animation -->
 
-Deep Learning (CNNs, RNNs, LSTMs)
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-Natural Language Processing (NLP)
+  <style>
+    /* 🌊 Animated Gradient Background */
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #000428);
+      background-size: 400% 400%;
+      animation: gradientBG 12s ease infinite;
+      color: white;
+    }
 
-Model Deployment (Flask, FastAPI)
-- 🤝 Looking to Collaborate On:
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
 
-Machine Learning Projects
+    /* Floating profile */
+    .float {
+      animation: float 4s ease-in-out infinite;
+    }
 
-AI Research or Open Source Contributions
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-12px); }
+      100% { transform: translateY(0px); }
+    }
 
-Data Science Hackathons
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ Fun Fact:
+    /* Glow text */
+    .glow {
+      color: #00ffcc;
+      text-shadow: 0 0 10px #00ffcc;
+    }
 
-I believe machines can’t replace humans—but they can definitely learn from them 🤖
+    /* Button hover */
+    .btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 0 20px #00ffcc;
+    }
 
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalakanhu swain) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kalakanhu Swain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalakanhuswain18@gmail.com) 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</head>
+
+<body class="flex items-center justify-center min-h-screen">
+
+  <div class="text-center p-6">
+
+```
+<!-- Profile -->
+<img src="https://via.placeholder.com/150"
+     class="mx-auto rounded-full w-36 h-36 border-4 border-green-400 float">
+
+<!-- Name -->
+<h1 class="text-3xl mt-4 font-bold glow" data-aos="fade-up">
+  👋 Hi, I'm Kalakanhu Swain
+</h1>
+
+<!-- Typing text -->
+<h2 class="text-lg mt-2 text-green-300" id="typing"></h2>
+
+<!-- Email -->
+<p class="mt-2">📧 kalakanhuswain18@gmail.com</p>
+
+<!-- Links -->
+<div class="mt-4 space-x-4">
+  <a href="#" class="text-green-400 hover:underline">GitHub</a>
+  <a href="#" class="text-green-400 hover:underline">LinkedIn</a>
 </div>
 
+<!-- Skills -->
+<div class="mt-6" data-aos="fade-up">
+  <h3 class="text-xl font-semibold">⚒ Skills</h3>
+  <p class="mt-2">Python | Machine Learning | Scikit-learn | Pandas | HTML | CSS | JavaScript</p>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kalakanhuswain18-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kalakanhuswain18-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalakanhuswain18-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Projects -->
+<div class="mt-6" data-aos="fade-up">
+  <h3 class="text-xl font-semibold">📂 Projects</h3>
+  <p class="mt-2">🏠 House Price Prediction (ML Model)</p>
+  <p>🤖 Voice Assistant (Jarvis)</p>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kalakanhuswain18-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Button -->
+<button class="btn mt-6 bg-green-500 px-6 py-2 rounded-lg transition">
+  📄 Download Resume
+</button>
 
-### ✍️ Random Dev Quote
-📍 Focused on AI & ML model building | Passionate about Data & Automation.”
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kalakanhuswain18-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p class="mt-6 text-sm">© 2026 Kalakanhu Swain</p>
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=kalakanhuswain18-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+  </div>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kalakanhu swain) 
+  <!-- AOS Script -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+  <script>
+    AOS.init();
+
+    // Typing animation
+    const text = "🚀 Machine Learning Engineer & Frontend Developer";
+    let i = 0;
+    function typing() {
+      if (i < text.length) {
+        document.getElementById("typing").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typing, 50);
+      }
+    }
+    typing();
+  </script>
+
+</body>
+</html>
