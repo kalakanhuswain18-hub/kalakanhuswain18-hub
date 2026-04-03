@@ -12,8 +12,9 @@ I enjoy working with data and building intelligent systems that solve real-world
 - 🌱 Currently learning **Advanced Machine Learning & Model Deployment**  
 - 🤝 Open to collaborate on **AI, ML & Data Analytics projects**  
 - 💬 Ask me about **Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis**  
-- ⚡ Fun fact: *I love turning raw data into meaningful insights*
--## Here My Portfolio 👉 [Click Here](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/) 
+- ⚡ Fun fact: **I love turning raw data into meaningful insights**
+- ## 🌐 My Portfolio  
+👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/) 
 
 ---
 
