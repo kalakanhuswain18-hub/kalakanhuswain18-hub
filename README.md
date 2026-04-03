@@ -1,29 +1,47 @@
-<h1 align="center">Hi 👋, I'm Kalakanhu Swain</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | Data Analyst | Tech Explorer</h3>
+# 👋 Hi, I'm Kalakanhu Swain  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalakanhuswain18-hub&label=Profile%20views&color=0e75b6&style=flat" alt="kalakanhuswain18-hub" /> </p>
+🚀 A passionate **Machine Learning Engineer & Data Analyst** from India  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalakanhuswain18-hub" alt="kalakanhuswain18-hub" /></a> </p>
+I enjoy working with data and building intelligent systems that solve real-world problems. My focus is on understanding data, extracting meaningful insights, and creating machine learning models that deliver practical value.
 
-- Hi, I'm Kalakanhu Swain 👋 **Machine Learning Projects (EDA, Prediction Models)**
+---
 
-- 🌱 I’m currently learning **Machine Learning, Data Analysis, Scikit-learn, Pandas, NumPy**
+## 💼 About Me  
 
-- 👯 I’m looking to collaborate on **Machine Learning & Data Science Projects (Prediction Models, EDA)**
+- 🔭 Currently working on **Machine Learning & Data Analysis projects (EDA, Prediction Models)**  
+- 🌱 Currently learning **Advanced Machine Learning & Model Deployment**  
+- 🤝 Open to collaborate on **AI, ML & Data Analytics projects**  
+- 💬 Ask me about **Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis**  
+- ⚡ Fun fact: **I love turning raw data into meaningful insights**
+- ## 🌐 My Portfolio  
+👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/) 
 
-- 🤝 I’m looking for help with **Advanced Machine Learning, Model Deployment, Real-world datasets**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/kalakanhuswain18-hub](https://github.com/kalakanhuswain18-hub)
+## 🛠 Skills  
 
-- 📝 I regularly write articles on [Currently not writing blogs, but planning to share ML learnings soon 🚀](Currently not writing blogs, but planning to share ML learnings soon 🚀)
+**Languages & Tools:**  
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 
-- 💬 Ask me about **Python, Machine Learning, Linear Regression, Logistic Regression, Data Analysis**
+**Core Areas:**  
+Machine Learning, Data Analysis, Exploratory Data Analysis (EDA), Data Visualization  
 
-- 📫 How to reach me **kalakanhuswain18@gmail.com**
+---
 
-- 📄 Know about my experiences [Currently a student building Machine Learning projects and learning by doing](Currently a student building Machine Learning projects and learning by doing)
+## 📂 Projects  
 
-- ⚡ Fun fact **Student Marks Predictor (Linear Regression)https://github.com/kalakanhuswain18-hub/Student-Marks-Predictor-ML**
+- 🏠 **House Price Prediction**  
+  Built a machine learning model to predict house prices using regression techniques  
+
+- 📊 **Car Crashes EDA**  
+  Performed exploratory data analysis to identify patterns and insights from crash data  
+
+- 🤖 **Voice Assistant (Jarvis)**  
+  Developed a Python-based AI assistant for performing basic automation tasks  
+
+---
+
+## 📫 Contact  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,9 +52,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalakanhuswain18-hub&show_icons=true&locale=en&layout=compact" alt="kalakanhuswain18-hub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalakanhuswain18-hub&show_icons=true&locale=en" alt="kalakanhuswain18-hub" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalakanhuswain18-hub&" alt="kalakanhuswain18-hub" /></p>
+
+
+- 📧 Email: kalakanhuswain18@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kalakanhu-swain-5a2360361/  
+- 💻 GitHub: https://github.com/kalakanhuswain18-hub  
+
+---
+
+⭐ *Always eager to learn, build, and grow in the field of AI & Data Science*
