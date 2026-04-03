@@ -66,7 +66,6 @@
 
   <div class="text-center p-6">
 
-```
 <!-- Profile -->
 <img src="https://via.placeholder.com/150"
      class="mx-auto rounded-full w-36 h-36 border-4 border-green-400 float">
