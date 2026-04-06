@@ -17,6 +17,10 @@ I enjoy working with data and building intelligent systems that solve real-world
 👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/) 
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 
 ## 🛠 Skills  
 <h3 align="left">Languages and Tools:</h3>
