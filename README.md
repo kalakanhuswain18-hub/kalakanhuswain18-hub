@@ -13,14 +13,13 @@ I enjoy working with data and building intelligent systems that solve real-world
 - 🤝 Open to collaborate on **AI, ML & Data Analytics projects**  
 - 💬 Ask me about **Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis**  
 - ⚡ Fun fact: **I love turning raw data into meaningful insights**
-- ## 🌐 My Portfolio  
-👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/) 
-
----
-<div align="center">
+----
+ <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 ---
+- ## 🌐 My Portfolio  
+👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
 
 ## 🛠 Skills  
 <h3 align="left">Languages and Tools:</h3>
