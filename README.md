@@ -15,9 +15,7 @@ I enjoy working with data and building intelligent systems that solve real-world
 - ⚡ Fun fact: **I love turning raw data into meaningful insights**
 - ## 🌐 My Portfolio  
 👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=kalakanhuswain18-hub&show_icons=true&theme=tokyonight" />
 
 ## 🚀 Skills
 
