@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Kalakanhu Swain  
+# 👋 Hi, I'm Kalakanhu Swain
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Web+Developer;Open+Source+Learner" />
 
 🚀 A passionate **Machine Learning Engineer & Data Analyst** from India  
 
@@ -15,8 +16,9 @@ I enjoy working with data and building intelligent systems that solve real-world
 - ⚡ Fun fact: **I love turning raw data into meaningful insights**
 - ## 🌐 My Portfolio  
 👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Web+Developer;Open+Source+Learner" />
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🚀 Skills
 
 ### Languages & Tools
