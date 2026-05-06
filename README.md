@@ -6,7 +6,7 @@
 I enjoy working with data and building intelligent systems that solve real-world problems. My focus is on understanding data, extracting meaningful insights, and creating machine learning models that deliver practical value.
 
 ---
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=tokyo-night" />
 ## 💼 About Me  
 
 - 🔭 Currently working on **Machine Learning & Data Analysis projects (EDA, Prediction Models)**  
@@ -16,10 +16,11 @@ I enjoy working with data and building intelligent systems that solve real-world
 - ⚡ Fun fact: **I love turning raw data into meaningful insights**
 - ## 🌐 My Portfolio  
 👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=tokyo-night" />
+
+
 
 ## 🚀 Skills
 
