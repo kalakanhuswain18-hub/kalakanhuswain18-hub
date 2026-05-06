@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kalakanhu Swain
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Web+Developer;Open+Source+Learner" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2200&pause=800&color=00FF7F&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Analyst;Web+Developer;Open+Source+Learner" 
+/>
 
 🚀 A passionate **Machine Learning Engineer & Data Analyst** from India  
 
