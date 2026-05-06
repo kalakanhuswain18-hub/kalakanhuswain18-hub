@@ -14,7 +14,10 @@ I enjoy working with data and building intelligent systems that solve real-world
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=github-dark&hide_border=true&area=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=github-dark&hide_border=true&area=true&line=00ff00&point=00ff00&color=00ff00"
+    width="95%"
+  />
 </p>
 
 ## 💼 About Me  
