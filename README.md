@@ -54,22 +54,25 @@ I enjoy working with data and building intelligent systems that solve real-world
 
 ---
 
-## 📫 Contact  
+## 📬 Contact
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kalakanhu swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalakanhu swain" height="30" width="40" /></a>
-<a href="https://fb.com/kalakanhu swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalakanhu swain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kalakanhu swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalakanhu swain" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kalakanhu-swain-5a2360361/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/kalakanhuswain18-hub">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="mailto:kalakanhuswain18@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalakanhuswain18-hub&" alt="kalakanhuswain18-hub" /></p>
-
-
-- 📧 Email: kalakanhuswain18@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kalakanhu-swain-5a2360361/  
-- 💻 GitHub: https://github.com/kalakanhuswain18-hub  
-
+- 📧 Email: kalakanhuswain18@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kalakanhu-swain-5a2360361/
+- 💻 GitHub: https://github.com/kalakanhuswain18-hub
 ---
 
 ⭐ *Always eager to learn, build, and grow in the field of AI & Data Science*
