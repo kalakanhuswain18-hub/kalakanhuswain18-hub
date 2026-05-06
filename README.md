@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Kalakanhu Swain
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Kalakanhu+Swain"
+    style="filter: drop-shadow(0px 0px 10px #00FF99);"
+  />
+</h1>
 
 
 🚀 A passionate **Machine Learning Engineer & Data Analyst** from India  
