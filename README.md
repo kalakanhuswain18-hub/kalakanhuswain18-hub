@@ -19,12 +19,26 @@ I enjoy working with data and building intelligent systems that solve real-world
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📛 Skills
+## 🚀 Skills
 
-### Languages and Tools:
+### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,c,cpp,python,docker,git,github,linux,express,mongodb,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,bootstrap,git,github,docker,linux,mysql,mongodb,vscode" />
+</p>
+
+### Machine Learning & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ## 📂 Projects  
