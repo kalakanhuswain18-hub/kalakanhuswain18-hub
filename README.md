@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Kalakanhu Swain
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2200&pause=800&color=00FF7F&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Analyst;Web+Developer;Open+Source+Learner" 
-/>
+
 
 🚀 A passionate **Machine Learning Engineer & Data Analyst** from India  
 
 I enjoy working with data and building intelligent systems that solve real-world problems. My focus is on understanding data, extracting meaningful insights, and creating machine learning models that deliver practical value.
 
 ---
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2200&pause=800&color=00FF7F&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Analyst;Web+Developer;Open+Source+Learner" 
+/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=tokyo-night" />
 
 ## 💼 About Me  
