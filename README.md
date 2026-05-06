@@ -29,9 +29,9 @@ I enjoy working with data and building intelligent systems that solve real-world
 - ⚡ Fun fact: **I love turning raw data into meaningful insights**
 - ## 🌐 My Portfolio  
 👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
- <div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</div>
+</p>
 
 
 
