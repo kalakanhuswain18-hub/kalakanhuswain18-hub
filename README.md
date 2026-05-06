@@ -9,12 +9,12 @@ I enjoy working with data and building intelligent systems that solve real-world
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2200&pause=800&color=00FF7F&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Data+Analyst;Web+Developer;Open+Source+Learner"
-    style="filter: drop-shadow(0px 0px 10px #ffffff);"
+    ,style="filter: drop-shadow(0px 0px 10px #ffffff);"
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=github-dark&hide_border=true&area=true , style="border-radius: 12px;" />
 </p>
 
 ## 💼 About Me  
