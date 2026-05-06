@@ -19,6 +19,9 @@ I enjoy working with data and building intelligent systems that solve real-world
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ## 🚀 Skills
 
 ### Languages & Tools
