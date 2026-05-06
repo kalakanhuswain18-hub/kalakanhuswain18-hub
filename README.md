@@ -15,7 +15,7 @@ I enjoy working with data and building intelligent systems that solve real-world
 - ⚡ Fun fact: **I love turning raw data into meaningful insights**
 - ## 🌐 My Portfolio  
 👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
-<img src="https://streak-stats.demolab.com?user=kalakanhuswain18-hub&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Web+Developer;Open+Source+Learner" />
 
 ## 🚀 Skills
 
