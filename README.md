@@ -6,7 +6,7 @@
 </h1>
 
 
-🚀 A passionate **Machine Learning Engineer & Data Analyst** from India  
+🚀 A passionate **AI/ML Engineer & Data Analyst** from India  
 
 I enjoy working with data and building intelligent systems that solve real-world problems. My focus is on understanding data, extracting meaningful insights, and creating machine learning models that deliver practical value.
 
@@ -27,7 +27,7 @@ I enjoy working with data and building intelligent systems that solve real-world
 
 ## 💼 About Me  
 
-- 🔭 Currently working on **Machine Learning & Data Analysis projects (EDA, Prediction Models)**  
+- 🔭 Currently working on **AI/ML & Data Analysis projects (EDA, Prediction Models)**  
 - 🌱 Currently learning **Advanced Machine Learning & Model Deployment**  
 - 🤝 Open to collaborate on **AI, ML & Data Analytics projects**  
 - 💬 Ask me about **Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis**  
