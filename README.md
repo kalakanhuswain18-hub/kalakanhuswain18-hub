@@ -1,105 +1,143 @@
-<h1>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=00FF99&vCenter=true&width=850&lines=👋+Hi,+I'm+Kalakanhu+Swain"
-    style="filter: drop-shadow(0px 0px 10px #00FF99);"
-  />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Kalakanhu+Swain;AI%2FML+Engineer;Data+Analyst;Python+Developer" />
 </h1>
-██╗  ██╗ █████╗ ██╗      █████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗
-██║ ██╔╝██╔══██╗██║     ██╔══██╗██║ ██╔╝██╔══██╗████╗  ██║██║  ██║██║   ██║
-█████╔╝ ███████║██║     ███████║█████╔╝ ███████║██╔██╗ ██║███████║██║   ██║
-██╔═██╗ ██╔══██║██║     ██╔══██║██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║██║   ██║
-██║  ██╗██║  ██║███████╗██║  ██║██║  ██╗██║  ██║██║ ╚████║██║  ██║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝
-
-
-🚀 A passionate **AI/ML Engineer & Data Analyst** from India  
-
-I enjoy working with data and building intelligent systems that solve real-world problems. My focus is on understanding data, extracting meaningful insights, and creating machine learning models that deliver practical value.
-
----
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2200&pause=800&color=00FF7F&center=true&vCenter=true&width=750&lines=AI/ML+Engineer;Data+Analyst;Web+Developer;Open+Source+Learner"
-    ,style="filter: drop-shadow(0px 0px 10px #ffffff);"
-  />
-</p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=react-dark&hide_border=true&area=true&color=00ff99&line=00ff99&point=ffffff"
-    width="95%"
-  />
+  <img src="https://komarev.com/ghpvc/?username=kalakanhuswain18-hub&label=Profile%20Views&color=00ff99&style=for-the-badge" />
 </p>
-
-## 💼 About Me  
-
-- 🔭 Currently working on **AI/ML & Data Analysis projects (EDA, Prediction Models)**  
-- 🌱 Currently learning **Advanced Machine Learning & Model Deployment**  
-- 🤝 Open to collaborate on **AI, ML & Data Analytics projects**  
-- 💬 Ask me about **Python, Machine Learning, Pandas, NumPy, Scikit-learn, Data Analysis**  
-- ⚡ Fun fact: **I love turning raw data into meaningful insights**
-- ## 🌐 My Portfolio  
-👉 [Click Here to View My Portfolio](https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
-
-## 🚀 Skills
-
-### Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,bootstrap,git,github,docker,linux,mysql,mongodb,vscode" />
-</p>
-
-### Machine Learning & Data Science
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
-## 📂 Projects  
-
-- 🏠 **House Price Prediction**  
-  Built a machine learning model to predict house prices using regression techniques  
-
-- 📊 **Car Crashes EDA**  
-  Performed exploratory data analysis to identify patterns and insights from crash data  
-
-- 🤖 **Voice Assistant (Jarvis)**  
-  Developed a Python-based AI assistant for performing basic automation tasks  
 
 ---
 
-## 📬 Contact
+# 🚀 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kalakanhu-swain-5a2360361/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+🎓 B.Tech CSE Student from India
 
-  <a href="https://github.com/kalakanhuswain18-hub">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+🤖 Passionate AI/ML Engineer & Data Analyst
 
-  <a href="mailto:kalakanhuswain18@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
-  </a>
-</p>
+💡 I enjoy solving real-world problems using Data Science & Machine Learning.
 
-- 📧 Email: kalakanhuswain18@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/kalakanhu-swain-5a2360361/
-- 💻 GitHub: https://github.com/kalakanhuswain18-hub
+🌱 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- Model Deployment
+- MLOps
+
+💬 Ask me about
+
+Python • Pandas • NumPy • Scikit-learn • Machine Learning • Data Analysis
+
 ---
 
-⭐ *Always eager to learn, build, and grow in the field of AI & Data Science*
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2200&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Analyst;Open+Source+Learner;Web+Developer" />
+</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=react-dark&hide_border=true&area=true&color=00ff99&line=00ff99&point=ffffff"/>
+</p>
+
+---
+
+# 🌐 Portfolio
+
+### 👉 https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/
+
+---
+
+# 🚀 Skills
+
+## Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,bootstrap,git,github,docker,linux,mysql,mongodb,vscode"/>
+</p>
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 📊 Data Analytics Dashboard
+- Upload CSV
+- Automatic Data Cleaning
+- Interactive Dashboard
+- Data Visualization
+- Download Cleaned Dataset
+
+---
+
+## 🏠 House Price Prediction
+Machine Learning Regression Project
+
+---
+
+## 🚗 Car Crashes EDA
+Exploratory Data Analysis using Python
+
+---
+
+## 🤖 Jarvis Voice Assistant
+Desktop Voice Assistant using Python
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalakanhuswain18-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalakanhuswain18-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📬 Contact Me
+
+<p>
+
+<a href="https://github.com/kalakanhuswain18-hub">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kalakanhu-swain-5a2360361/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:kalakanhuswain18@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
+</p>
+
+📧 Email: kalakanhuswain18@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/kalakanhu-swain-5a2360361/
+
+🌐 Portfolio:
+https://kalakanhuswain18-hub.github.io/kalakanhuswain18-hub/
+
+⭐ Always learning • Always building • Always improving
