@@ -4,12 +4,7 @@
     style="filter: drop-shadow(0px 0px 10px #00FF99);"  
   />  
 </h1>  
-██╗  ██╗ █████╗ ██╗      █████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗  
-██║ ██╔╝██╔══██╗██║     ██╔══██╗██║ ██╔╝██╔══██╗████╗  ██║██║  ██║██║   ██║  
-█████╔╝ ███████║██║     ███████║█████╔╝ ███████║██╔██╗ ██║███████║██║   ██║  
-██╔═██╗ ██╔══██║██║     ██╔══██║██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║██║   ██║  
-██║  ██╗██║  ██║███████╗██║  ██║██║  ██╗██║  ██║██║ ╚████║██║  ██║╚██████╔╝  
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝  🚀 A passionate AI/ML Engineer & Data Analyst from India
+ 🚀 A passionate AI/ML Engineer & Data Analyst from India
 
 I enjoy working with data and building intelligent systems that solve real-world problems. My focus is on understanding data, extracting meaningful insights, and creating machine learning models that deliver practical value.
 
