@@ -1,3 +1,5 @@
+<div align="center"> <table> <tr> <td width="42%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=kalakanhuswain18-hub&theme=aurora&style=terminal&mode=light" /> <img src="https://www.gitskins.com/api/section/portrait?username=kalakanhuswain18-hub&theme=aurora&style=terminal&mode=dark" width="100%" alt="kalakanhuswain18-hub portrait" /> </picture></td> <td width="58%" valign="top"><picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=kalakanhuswain18-hub&theme=aurora&style=terminal&label=Kalakanhu+Swain&mode=light" /> <img src="https://www.gitskins.com/api/section/wordmark?username=kalakanhuswain18-hub&theme=aurora&style=terminal&label=Kalakanhu+Swain&mode=dark" width="100%" alt="kalakanhuswain18-hub wordmark" /> </picture></td> </tr> </table> 
+
 <h1>  
   <img   
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=00FF99&vCenter=true&width=850&lines=👋+Hi,+I'm+Kalakanhu+Swain"  
