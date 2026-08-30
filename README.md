@@ -13,17 +13,8 @@ I enjoy working with data and building intelligent systems that solve real-world
 
 ---
 
-<p align="center">  
-  <img   
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2200&pause=800&color=00FF7F&center=true&vCenter=true&width=750&lines=AI/ML+Engineer;Data+Analyst;Web+Developer;Open+Source+Learner"  
-    ,style="filter: drop-shadow(0px 0px 10px #ffffff);"  
-  />  
-</p>  <p align="center">  
-  <img   
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kalakanhuswain18-hub&theme=react-dark&hide_border=true&area=true&color=00ff99&line=00ff99&point=ffffff"  
-    width="95%"  
-  />  
-</p>  💼 About Me
+
+# </p>  💼 About Me
 
 🔭 Currently working on AI/ML & Data Analysis projects (EDA, Prediction Models)
 
