@@ -63,6 +63,32 @@ LEARN → BUILD → INNOVATE → DEPLOY
 
 ---
 
+---
+
+## 👾 PAC-MAN CONTRIBUTION GAME
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/pacman-contribution-graph-dark.svg" width="100%" />
+</div>
+
+---
+
+## 🚀 GALAGA CONTRIBUTION GAME
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/galaga-contribution-graph-dark.svg" width="100%" />
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
 ## 🪐 TECH STACK UNIVERSE
 
 ### 💻 Programming Languages
@@ -95,23 +121,101 @@ LEARN → BUILD → INNOVATE → DEPLOY
 
 ---
 
-## 🚀 FEATURED PROJECTS
 
-<div align="center">
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<table>
+<tr>
+
+<!-- PROJECT 1 -->
+<td width="33%" align="center" valign="top">
 
 <a href="https://github.com/kalakanhuswain18-hub/Credit-Card-Fraud-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalakanhuswain18-hub&repo=Credit-Card-Fraud-Detection&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://www.anlagedigital.com/static/anlage_v2/images/hero/ai-analytics-generic.png?v=6" width="100%" height="180" alt="Credit Card Fraud Detection"/>
 </a>
+
+<h3>💳 Credit Card Fraud Detection</h3>
+
+<p>
+Machine Learning based fraud detection and imbalanced dataset analysis.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-00FF99?style=flat-square&logo=scikitlearn&logoColor=black"/>
+</p>
+
+<br/><br/>
+
+<a href="https://github.com/kalakanhuswain18-hub/Credit-Card-Fraud-Detection">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+
+<!-- PROJECT 2 -->
+<td width="33%" align="center" valign="top">
 
 <a href="https://github.com/kalakanhuswain18-hub/Flask-Data-Analytics-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalakanhuswain18-hub&repo=Flask-Data-Analytics-Dashboard&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://www.jaiamar.online/assets/crowd_intel-CsbXe96T.png" width="100%" height="180" alt="Data Analytics Dashboard"/>
 </a>
+
+<h3>📊 Data Analytics Dashboard</h3>
+
+<p>
+Interactive dashboard for data exploration and visualization.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-00FF99?style=flat-square&logo=flask&logoColor=black"/>
+</p>
+
+<br/><br/>
+
+<a href="https://github.com/kalakanhuswain18-hub/Flask-Data-Analytics-Dashboard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+
+<!-- PROJECT 3 -->
+<td width="33%" align="center" valign="top">
 
 <a href="https://github.com/kalakanhuswain18-hub/SmartReco">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalakanhuswain18-hub&repo=SmartReco&theme=chartreuse-dark&hide_border=true"/>
+<img src="https://user-images.githubusercontent.com/40932902/212927003-31092c19-a1d8-47cb-a217-1eb561752140.png" width="100%" height="180" alt="SmartReco"/>
 </a>
 
-</div>
+<h3>🤖 SmartReco</h3>
+
+<p>
+Smart product recommendation application with a modern web interface.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-00FF99?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-00FF99?style=flat-square&logo=flask&logoColor=black"/>
+</p>
+
+<br/><br/>
+
+<a href="https://github.com/kalakanhuswain18-hub/SmartReco">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/kalakanhuswain18-hub?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+</p>
+
+---
+
 
 ### 🔥 More Projects
 
@@ -159,36 +263,6 @@ LEARN → BUILD → INNOVATE → DEPLOY
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 👾 PAC-MAN CONTRIBUTION GAME
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man Contribution Animation"/>
-
-</div>
-
----
-
-## 🚀 GALAGA CONTRIBUTION GAME
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/galaga-contribution-graph-dark.svg" width="100%" alt="Galaga Contribution Animation"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
