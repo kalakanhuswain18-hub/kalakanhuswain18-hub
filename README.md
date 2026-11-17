@@ -70,6 +70,103 @@ LEARN → BUILD → INNOVATE → DEPLOY
 <div align="center">
 <img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
+---
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<table width="100%" cellspacing="12" cellpadding="12">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/kalakanhuswain18-hub/Credit-Card-Fraud-Detection">
+<img src="https://www.anlagedigital.com/static/anlage_v2/images/hero/ai-analytics-generic.png?v=6" width="100%" height="180"/>
+</a>
+
+<h3>💳 Credit Card Fraud Detection</h3>
+<p>Machine Learning based fraud detection and imbalanced dataset analysis.</p>
+
+<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-00FF99?style=flat-square&logo=scikitlearn&logoColor=black"/>
+
+<br/><br/>
+<a href="https://github.com/kalakanhuswain18-hub/Credit-Card-Fraud-Detection">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/kalakanhuswain18-hub/networksecurity">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/167/149/datas/gallery.jpg" width="100%" height="180"/>
+</a>
+
+<h3>🛡️ Network Security – Phishing Detection</h3>
+<p>Machine Learning based phishing website detection using 31 website features and 11,055 records.</p>
+
+<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-00FF99?style=flat-square&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/MLflow-00FF99?style=flat-square&logo=mlflow&logoColor=black"/>
+
+<br/><br/>
+<a href="https://github.com/kalakanhuswain18-hub/networksecurity">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/kalakanhuswain18-hub/SmartReco">
+<img src="https://user-images.githubusercontent.com/40932902/212927003-31092c19-a1d8-47cb-a217-1eb561752140.png" width="100%" height="180"/>
+</a>
+
+<h3>🤖 SmartReco</h3>
+<p>Smart product recommendation application with a modern web interface.</p>
+
+<img src="https://img.shields.io/badge/React-00FF99?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-00FF99?style=flat-square&logo=flask&logoColor=black"/>
+
+<br/><br/>
+<a href="https://github.com/kalakanhuswain18-hub/SmartReco">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/kalakanhuswain18-hub/Flask-Data-Analytics-Dashboard">
+<img src="https://www.jaiamar.online/assets/crowd_intel-CsbXe96T.png" width="100%" height="180"/>
+</a>
+
+<h3>📊 Data Analytics Dashboard</h3>
+<p>Interactive dashboard for data exploration and visualization.</p>
+
+<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-00FF99?style=flat-square&logo=flask&logoColor=black"/>
+
+<br/><br/>
+<a href="https://github.com/kalakanhuswain18-hub/Flask-Data-Analytics-Dashboard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<a href="https://github.com/kalakanhuswain18-hub?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00FF99?style=for-the-badge&labelColor=050505"/>
+</a>
+</div>
+
+---
 
 ---
 
@@ -81,13 +178,6 @@ LEARN → BUILD → INNOVATE → DEPLOY
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
 
 ## 🪐 TECH STACK UNIVERSE
 
@@ -122,97 +212,6 @@ LEARN → BUILD → INNOVATE → DEPLOY
 ---
 
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<table>
-<tr>
-
-<!-- PROJECT 1 -->
-<td width="33%" align="center" valign="top">
-
-<a href="https://github.com/kalakanhuswain18-hub/Credit-Card-Fraud-Detection">
-<img src="https://www.anlagedigital.com/static/anlage_v2/images/hero/ai-analytics-generic.png?v=6" width="100%" height="180" alt="Credit Card Fraud Detection"/>
-</a>
-
-<h3>💳 Credit Card Fraud Detection</h3>
-
-<p>
-Machine Learning based fraud detection and imbalanced dataset analysis.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-00FF99?style=flat-square&logo=scikitlearn&logoColor=black"/>
-</p>
-
-<br/><br/>
-
-<a href="https://github.com/kalakanhuswain18-hub/Credit-Card-Fraud-Detection">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
-</a>
-
-</td>
-
-<!-- PROJECT 2 -->
-<td width="33%" align="center" valign="top">
-
-<a href="https://github.com/kalakanhuswain18-hub/Flask-Data-Analytics-Dashboard">
-<img src="https://www.jaiamar.online/assets/crowd_intel-CsbXe96T.png" width="100%" height="180" alt="Data Analytics Dashboard"/>
-</a>
-
-<h3>📊 Data Analytics Dashboard</h3>
-
-<p>
-Interactive dashboard for data exploration and visualization.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Python-00FF99?style=flat-square&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-00FF99?style=flat-square&logo=flask&logoColor=black"/>
-</p>
-
-<br/><br/>
-
-<a href="https://github.com/kalakanhuswain18-hub/Flask-Data-Analytics-Dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
-</a>
-
-</td>
-
-<!-- PROJECT 3 -->
-<td width="33%" align="center" valign="top">
-
-<a href="https://github.com/kalakanhuswain18-hub/SmartReco">
-<img src="https://user-images.githubusercontent.com/40932902/212927003-31092c19-a1d8-47cb-a217-1eb561752140.png" width="100%" height="180" alt="SmartReco"/>
-</a>
-
-<h3>🤖 SmartReco</h3>
-
-<p>
-Smart product recommendation application with a modern web interface.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React-00FF99?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-00FF99?style=flat-square&logo=flask&logoColor=black"/>
-</p>
-
-<br/><br/>
-
-<a href="https://github.com/kalakanhuswain18-hub/SmartReco">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF99?style=for-the-badge&labelColor=050505"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-<a href="https://github.com/kalakanhuswain18-hub?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00FF99?style=for-the-badge&labelColor=050505"/>
-</a>
-</p>
 
 ---
 
