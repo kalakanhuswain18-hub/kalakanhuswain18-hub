@@ -64,7 +64,7 @@ LEARN → BUILD → INNOVATE → DEPLOY
 ---
 
 ---
-## 🚀 GALAGA CONTRIBUTION GAME
+## 🚀 GALAGA CONTRIBUTION 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/galaga-contribution-graph-dark.svg" width="100%" />
@@ -170,7 +170,7 @@ LEARN → BUILD → INNOVATE → DEPLOY
 
 ---
 
-## 👾 PAC-MAN CONTRIBUTION GAME
+## 👾 PAC-MAN CONTRIBUTION 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kalakanhuswain18-hub/kalakanhuswain18-hub/output/pacman-contribution-graph-dark.svg" width="100%" />
